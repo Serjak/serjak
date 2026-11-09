@@ -1,0 +1,24 @@
+{
+  "username": "serjak",
+  "handle": "serjak@github",
+  "sections": [
+    [
+      ["SO", "Windows, Ubuntu, Android"],
+      ["Rol", "Ingeniero de Software"],
+      ["Editor", "VSCode, Cursor"]
+    ],
+    [
+      ["Lenguajes", "Acaso importa ahora? La IA se encarga"],
+      ["Lenguajes.Marcado", "HTML, CSS, SQL, YAML, JSON"],
+      ["Idiomas", "Español, Inglés"]
+    ],
+    [
+      ["Intereses.IA", "Agentes, LLMs, Automatización, Innovación"],
+      ["Intereses.Web", "Next.js, Node, Serverless"]
+    ],
+    {
+      "title": "Estadísticas de GitHub",
+      "rows": "{stats}"
+    }
+  ]
+}
